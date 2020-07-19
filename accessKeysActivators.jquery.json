@@ -1,5 +1,5 @@
 {
-    "name": "browser-access-keys-activators",
+    "name": "accessKeysActivators",
     "title": "Browser's Access Key Activators detector",
     "description": "jQuery plugin to retrieve the keys that activate the access key of the HTML elements which have it defined.",
     "keywords": [

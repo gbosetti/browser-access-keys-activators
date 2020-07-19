@@ -34,3 +34,7 @@ Requires jQuery >=1.5 and https://github.com/bestiejs/platform.js/blob/master/pl
 		$("div").html(keys.toString());
 	});
 	```
+
+## Updating the plugin
+
+Follow the instructions in https://github.com/jquery-boilerplate/jquery-boilerplate/wiki/How-to-publish-a-plugin-in-jQuery-Plugin-Registry
